@@ -10,3 +10,5 @@ Install Jupyter Notebook
 
 ```pip install jupyter```
 
+# Refer
+[http://www.learnbymarketing.com/618/pyspark-rdd-basics-examples/]
